@@ -11,3 +11,8 @@ How to run locally
 ```bash
 pip install unsloth transformers peft trl gradio
 python lora_app.py
+
+Note
+
+Full 50k dataset will be released on HuggingFace after curation.
+Lora weights are not in this repo due to size. They are local for now.
