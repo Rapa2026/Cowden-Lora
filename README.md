@@ -6,6 +6,7 @@ This is a v2 proof-of-concept trained on 250 curated Q&As. Model runs locally on
 
 What it does
 Answers questions about Cowden Syndrome, PTEN Hamartoma Tumor Syndrome, and Lhermitte-Duclos disease with curated sources.
+Not medical advice. Please talk to your Doctor.
 
 How to run locally
 ```bash
